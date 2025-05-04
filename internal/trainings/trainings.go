@@ -1,10 +1,10 @@
 package trainings
 
 import (
-	"fmt"
 	"github.com/Yandex-Practicum/tracker/internal/personaldata"
 	"github.com/Yandex-Practicum/tracker/internal/spentenergy"
 
+	"fmt"
 	"errors"
 	"strconv"
 	"strings"
